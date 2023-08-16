@@ -1,35 +1,22 @@
-# App Monthly Challenge 2022
+# Retos de programación mensuales 2022
 ## Proyecto de retos de creación mensual de aplicaciones de la comunidad **[MoureDev](https://moure.dev)** en base a requisitos.
+### Todos nuestros retos en **[retosdeprogramacion.com/mensuales2022](https://retosdeprogramacion.com/mensuales2022)**
 
-![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)
+También existen repositorios en los que se publicarán semanalmente pequeños retos de código para mejorar nuestra lógica de programación.
 
-También existen repositorios tanto para Kotlin/Android como para Swift/iOS en los que se publicarán semanalmente pequeños retos de código. Así podrás elegir el que mejor se adapta a tus necesidades (o practicar en todos).
+[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Repositorio%20público%20retos%20Kotlin/Android&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Repositorio%20público%20retos%20Swift/iOS&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-
-## 📢 NOVEDAD: Rviewer se une a los retos de la comunidad
-
-![https://rviewer.io/](./Rviewer/mouredev_rviewer_challenge.png)
-
-**[Rviewer](https://rviewer.io/)** es la plataforma que te permite poner a prueba tus habilidades en programación mediante la resolución de desafíos tecnológicos reales con el objetivo de prepararte para dar el salto a un nuevo reto profesional.
-
-> A partir del mes de mayo, podrás realizar los retos de programación mensuales a través de **[Rviewer](https://rviewer.io/)**, recibiendo feedback detallado sobre tu código de manos de un experto y la posibilidad de construir tu propio portfolio técnico totalmente GRATIS.  
-
-**Mejoramos el proceso, TOD@S ganamos:**
-
-* Cada mes se presentará un nuevo reto en directo en **[Twitch](https://twitch.tv/mouredev)** y se publicará en **[Rviewer](https://rviewer.io/)** y GitHub.
-* Lo resolverás desde Rviewer, en tu propio repositorio de GitHub.
-* Una vez lo resuelvas, podrás argumentar cómo has creado la app para complementar tu código.
-* Tendrás acceso en exclusiva a un video mío explicando cómo he resuelto el reto de Mayo. 
-* Recibirás feedback personalizado de cada desafío por parte del equipo de Rviewer.
+* Cada mes se presentará un nuevo reto en directo en **[Twitch](https://twitch.tv/mouredev)** y se publicará en **[retosdeprogramacion.com](https://retosdeprogramacion.com/mensuales2022)** y GitHub.
+* Lo resolverás tu propio repositorio de GitHub.
+* Una vez lo resuelvas, deberás hacer una PULL REQUEST a este repositorio indicando la url de tu repositorio de resolución.
 * Pasado el mes del reto, haremos el directo en **[Twitch](https://twitch.tv/mouredev)** revisando los proyectos presentados por la comunidad.
 * Tod@s los que resuelvan un reto, participarán en el sorteo de **100€ cada mes en material formativo a tu elección**.
 
 
 ## Vídeo explicación retos
 
-<a href="https://youtu.be/14v4IINunvY"><img src="http://i3.ytimg.com/vi/14v4IINunvY/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/TSMFijaJwpE"><img src="http://i3.ytimg.com/vi/TSMFijaJwpE/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 ### El proyecto
 La idea principal es utilizar este proyecto para publicar retos de creación de pequeñas Apps y soluciones en diferentes tecnologías (principalmente iOS y Android, aunque si quieres puedes hacerlo via mediante web). Es una manera para intentar "forzarnos" a practicar desarrollo de aplicaciones en base a requisitos y de forma colaborativa dentro de la comunidad.
@@ -128,22 +115,197 @@ Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto04.md)
 *El juego se gana si se descubren todas las parejas dentro del límite de tiempo.*
 
 #### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://go.rviewer.io/dev-memory-game-es/).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto05.md)
 
 ### Junio: 31/05/22
-Pendiente de publicación...
+
+> **[RVIEWER](https://rviewer.io/) apoya los retos mensuales de la comunidad dando feedback profesional de cada reto para así mejorar nuestras habilidades. También, por presentar la prueba durante el mes, entrarás en el sorteo de 100Є en material formativo.**
+
+<a href="https://rviewer.io/"><img src="./Rviewer/mouredev_rviewer_twitterclone.png" style="height: 50%; width:50%;"/></a>
+
+**CLONANDO TWITTER:** Replica la UI del feed de Twitter en tu propia app.
+
+**NOTA:** Para la revisión en directo desde Twitch se agradece crear un readme con un enlace de descarga o ejecución de la app. Gracias!
+
+El objetivo desde este reto es que seas capaz de replicar la capa visual del feed principal de Tweets en tu propia app. ¿Te animas a clonar la UI de Twitter?
+
+**¿En qué consiste el reto?**
+
+*Puedes clonar la versión web, iOS o Android de Twitter.*
+
+*Cuanto más similar al diseño original, mejor, aunque no es necesario representar todas funcionalidades actuales de Twitter (en las instrucciones completas se indican los requisitos de forma detallada). El objetivo del reto se centra principalmente en tener la capacidad de saber crear UI en base a un diseño ya existente.*
+
+*¡Punto extra! Si quieres desafiarte un poco más, intenta mejorar la aplicación de Twitter.*
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://go.rviewer.io/dev-twitter-mirroring-es/?utm_source=mouredev&utm_medium=github_repo&utm_campaign=twitter_mirroring_mouredev).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto06.md)
+
+### Julio: 28/06/22
+
+> **[RVIEWER](https://rviewer.io/) apoya los retos mensuales de la comunidad dando feedback profesional de cada reto para así mejorar nuestras habilidades. También, por presentar la prueba durante el mes, entrarás en el sorteo de 100Є en material formativo.**
+
+<a href="https://rviewer.io/"><img src="./Rviewer/mouredev_rviewer_rssreader.png" style="height: 50%; width:50%;"/></a>
+
+**LECTOR RSS:** Crea un agregador de noticias enfocado en un único nicho de mercado.
+
+**NOTA:** Para la revisión en directo desde Twitch se agradece crear un readme con un enlace de descarga, url de la web desplegada o vídeo/capturas con la ejecución de la app. Gracias!
+
+¿Eres capaz de construir el mejor agregador de noticias de un sector?
+
+**¿En qué consiste el reto?**
+
+*Tú decides el nicho que más te guste. Por ejemplo tecnología, desarrollo de software, música, comida, deporte...*
+
+*Crearás una pantalla principal y otras para detalles, marcadores y configuración.*
+
+*¡Punto extra! Aquí mandas tú. Es posible que puedas implementar funcionalidades exclusivas que tengan especial sentido en el nicho que hayas seleccionado... ¡Sorpréndenos!*
+
+#### Fecha de entrega estimada: 29/07/22
+De esta manera podrás recibir feedback técnico sobre tu prueba y asistir a su revisión en directo desde Twitch el día de la publicación del próximo reto mensual.
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://bit.ly/39YdJFC).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto07.md)
+
+### Agosto: 02/08/22
+
+> **[RVIEWER](https://rviewer.io/) apoya los retos mensuales de la comunidad dando feedback profesional de cada reto para así mejorar nuestras habilidades. También, por presentar la prueba durante el mes, entrarás en el sorteo de 100Є en material formativo.**
+
+<a href="https://rviewer.io/"><img src="./Rviewer/mouredev_rviewer_firebasechat.png" style="height: 50%; width:50%;"/></a>
+
+**FIREBASE CHAT:** Crea una aplicación de chat usando Firebase como tu backend.
+
+**NOTA:** Para la revisión en directo desde Twitch se agradece crear un readme con un enlace de descarga, url de la web desplegada o vídeo/capturas con la ejecución de la app. Gracias!
+
+¿Nunca te has preguntado cómo funciona un chat? Pues bien, vamos a crear una aplicación que utilice varios de los servicios de Firebase para login y base de datos en tiempo real.
+
+**¿En qué consiste el reto?**
+
+*La aplicación tendrá una pantalla donde tendrás que hacer login con tu cuenta de Google.*
+
+*Una vez realizado, accederás a una sala de chat donde se visualizarán los mensajes de todos los usuarios y podrás interactuar con ellos.*
+
+*¡Punto extra! ¿Eres capaz de enviar notificaciones push a otro dispositivo cada vez que te escriben? ¿E imágenes?*
+
+#### Fecha de entrega estimada: 27/08/22
+De esta manera podrás recibir feedback técnico sobre tu prueba y asistir a su revisión en directo desde Twitch el día de la publicación del próximo reto mensual.
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://bit.ly/3vyk6ap).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto08.md)
+
+### Septiembre: 30/08/22
+
+> **El 13 de Septiembre celebramos el "Día de la Programación". Un día para compartir y pasar en comunidad.**
+
+<a href="https://rviewer.io/"><img src="./Rviewer/mouredev_rviewer_diadelaprogramacion.png" style="height: 50%; width:50%;"/></a>
+
+**HACKATHON DÍA DE LA PROGRAMACIÓN: Este es un mes muy especial, celebramos el ["Día de la Programación"](https://diadelaprogramacion.com)
+
+#### Fecha de entrega Hackathon: hasta el 11/09/22
+Esta es la fecha de entrega límite para poder participar en la hackathon.
+
+#### Fecha de entrega reto mensual: 27/09/22
+De esta manera podrás recibir feedback técnico sobre tu prueba y asistir a su revisión en directo desde Twitch el día de la publicación del próximo reto mensual.
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://bit.ly/3AxPhEj).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto09.md)
+
+### Octubre: 29/09/22
+
+> **[RVIEWER](https://rviewer.io/) apoya los retos mensuales de la comunidad dando feedback profesional de cada reto para así mejorar nuestras habilidades. También, por presentar la prueba durante el mes, entrarás en el sorteo de 100Є en material formativo.**
+
+<a href="https://rviewer.io/"><img src="./Rviewer/mouredev_rviewer_unitconverter.png" style="height: 50%; width:50%;"/></a>
+
+**CONVERSOR DE UNIDADES:** Crea una applicación para encontrar la equivalencia de un valor en diferentes unidades de medida.
+
+**NOTA:** Para la revisión en directo desde Twitch se agradece crear un readme con un enlace de descarga del ejecutable, url de la web desplegada o vídeo/capturas con la ejecución de la app. Gracias!
+
+¿Has probado alguna vez crear tu propio conversor de unidades? Sí, una app con la que puedas transformar unidades de manera instantánea. Peso, temperatura, tiempo, longitud, potencia, monetarias... ¡Y muchísimas más!
+
+**¿En qué consiste el reto?**
+
+*Si tu applicación es capaz de transformar muchos tipos de unidades, debe poseer una pantalla de selección y una de detalle con el conversor.*
+
+*Si decides que tu aplicación únicamente soporte una familia de unidades, puede estar todo en una única pantalla.*
+
+*¡Punto extra! ¿Te atreves a utilizar otro tipo de unidades de medición menos comunes?*
+
+#### Fecha de entrega estimada: 24/08/22
+De esta manera podrás recibir feedback técnico sobre tu prueba y asistir a su revisión en directo desde Twitch el día de la publicación del próximo reto mensual.
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://bit.ly/3dQMNcI).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto10.md)
+
+### Noviembre: 26/10/22
+
+> **[RVIEWER](https://rviewer.io/) apoya los retos mensuales de la comunidad dando feedback profesional de cada reto para así mejorar nuestras habilidades. También, por presentar la prueba durante el mes, entrarás en el sorteo de 100Є en material formativo.**
+
+<a href="https://rviewer.io/"><img src="./Rviewer/mouredev_rviewer_pizza.png" style="height: 50%; width:50%;"/></a>
+
+**BUON APPETITO:** Existen ciertos proyectos de software muy habituales. Las tiendas online son uno de ellos. Crea una aplicación que sea capaz de gestionar el pedido en nuestra pizzería perfecta.
+
+**NOTA:** Para la revisión en directo desde Twitch se agradece crear un readme con un enlace de descarga del ejecutable, url de la web desplegada o vídeo/capturas con la ejecución de la app. Gracias!
+
+Pero, ¿por qué es perfecta?
+Muy fácil, no tienes que registrarte, una pizza puede estar compuesta hasta por 4 tipos, podrás eliminar ingredientes y conoceremos "un truco" para no tener que pagarlas.
+
+**¿En qué consiste el reto?**
+
+*Al abrir la aplicación se nos presentará el listado de pizzas del restaurante.*
+
+*Podrás consultar el detalle de la pizza para editarla y acceder al carrito de la compra para finalizar el pedido.*
+
+*¡Punto extra! ¿Te atreves a solicitar los datos de envío o a añadir algún método de pago?*
+
+#### Fecha de entrega estimada: 27/11/22
+De esta manera podrás recibir feedback técnico sobre tu prueba y asistir a su revisión en directo desde Twitch el día de la publicación del próximo reto mensual.
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://bit.ly/3DdS5HY).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto11.md)
+
+### Diciembre: 30/11/22
+
+<a href="https://retosdeprogramacion.com/mensuales2022"><img src="./Images/reto_diciembre_22.jpg" style="height: 50%; width:50%;"/></a>
+
+
+**LA DEVSTORE:** Un lugar para comprar ropa y complementos para developers... ¿Genialidad o locura?
+
+Crea una web o app que funcione como un sitio donde encontrar aquellos productos que crees que todo developer debería conocer. En este [Tweet](https://twitter.com/MoureDev/status/1597625149838479360?s=20&t=uyXkUz_OX1-54E9ava1ObA) te dejo agunas ideas divertidas aportadas por la comunidad.
+
+**NOTA:** Para la revisión en directo desde Twitch se agradece crear un readme en tu repositorio con un enlace de descarga del ejecutable, url de la web desplegada o vídeo/capturas con la ejecución de la app. Gracias!
+
+**¿En qué consiste el reto?**
+
+*Deberás crear una tienda online pero sin tienda... ¿Cómo? Tu web o app puede servir para enlazar a los productos que venden tiendas online reales (Amazon, por ejemplo) y así utilizar enlaces de referidos que te aporten ingresos.*
+
+*La tienda deberá poseer una sección de productos destacados y diferentes filtros para agrupar por categoría. Los productos son de tu total elección, y cada uno debe tener foto (o más de una) y descripción (e información extra si así lo quieres).*
+
+*¡Punto extra! Es el último reto del año... ¿Quieres formar un equipo de hasta 3 personas (tienen que existir commits de 3 personas) para llevar a cabo el reto? Este es el momento.*
+
+##### Entrega la resolución del reto y participa en el sorteo de 100€ en material formativo (300€ máximo en caso de un equipo de 3 personas)
+
+#### ¿Te animas a resolver este desafío? Aquí tienes [todos los detalles](https://retosdeprogramacion.com/mensuales2022).
+Soluciones: [**ENLACES A LOS REPOSITORIOS**](./SolucionesReto12.md)
+
+Aquí finalizan los retos mensuales de 2022.
+
+> **[🆕ACCEDE A LOS NUEVOS RETOS SEMANALES PARA 2023](https://github.com/mouredev/retos-programacion-2023)**
 
 ### ¿Cómo puedo participar?
 
-> **Puedes hacer libremente un fork del proyecto y trabajar con Git para ir sincronizando las actualizaciones del proyecto.**
+> **Puedes hacer libremente un fork del proyecto y trabajar con Git para compartir mediante una PULL REQUEST la url de resolución de cada reto.**
 > 
-> **A PARTIR DEL RETO DE MAYO, PODRÁS RESOLVER EL RETO DIRECTAMENTE DESDE [RVIEWER](https://rviewer.io/).**
+> **LOS RETOS DE MAYO Y NOVIEMBRE LOS PODRÁS RESOLVER DIRECTAMENTE DESDE [RVIEWER](https://rviewer.io/).**
 
 * Cada mes se publicará un nuevo reto de código.
 * Los requisitos o enlace al enunciado del reto mensual se publicarán en este mismo README.
 * Se comunicará en el canal `#🗓reto-mensual` de [Discord](https://mouredev.com/discord), en directo desde [Twitch](https://twitch.tv/mouredev) y se subirá el enunciado al [repositorio](https://github.com/mouredev/Monthly-App-Challenge-2022).
 * Dispondrás de un mes para resolverlo, preguntar tus dudas, debatir y aportar ayuda en el canal `#🗓reto-mensual` de Discord.
-* Al finalizar el mes del reto se subirán enlaces a repositorios de la comunidad con resolucines en diferentes tecnologías, se comentarán en directo desde Twitch **(utilizando resoluciones de entre la gente que haya resuelto el reto desde [Rviewer](https://rviewer.io/))** y se añadirá el nuevo reto mensual.
+* Al finalizar el mes del reto se subirán enlaces a repositorios de la comunidad con resolucines en diferentes tecnologías, se comentarán en directo desde Twitch **(utilizando resoluciones de entre la gente que haya resuelto el reto)** y se añadirá el nuevo reto mensual.
 * Comenzará de nuevo el proceso.
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
@@ -156,10 +318,11 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 11 años. Desde hace 3 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
 ### En mi perfil de GitHub tienes más información
 
